@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=DebitCard
+comment0.text=\ Creating\ the\ child\ class\ DebitCard\ and\ using\ instance\ variable\r\nHere\ private\ access\ modifier\ has\ been\ use\ for\ variables\ to\ encapsulate\ the\ data\ and\ the\ concepts\ of\ encapulsation\ is\ used\ \r\nand\ \ values\ are\ only\ use\ by\ this\ class\ whereas\ we\ can\ see\ that\ concept\ of\ inheritance\ is\ also\ use\ as\ it\ \ has\ a\ keyword\ extends
+comment1.params=balanceAmount\ cardId\ bankAccount\ issuerBank\ clientName\ pinNumber
+comment1.target=DebitCard(int,\ int,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ int)
+comment2.params=
+comment2.target=int\ getPinNumber()
+comment3.params=
+comment3.target=int\ getWithdrawalAmount()
+comment4.params=
+comment4.target=java.lang.String\ getDateOfWithdrawal()
+comment5.params=
+comment5.target=boolean\ getHasWithdrawn()
+comment6.params=withdrawalAmount
+comment6.target=void\ setWithdrawalAmount(int)
+comment7.params=withdrawalAmount\ dateOfWithdrawal\ pinNumber
+comment7.target=void\ withdraw(int,\ java.lang.String,\ int)
+comment8.params=
+comment8.target=void\ display()
+numComments=9

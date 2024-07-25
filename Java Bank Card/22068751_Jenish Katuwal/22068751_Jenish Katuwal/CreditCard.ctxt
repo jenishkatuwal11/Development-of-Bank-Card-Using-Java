@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=CreditCard
+comment0.text=\ Creating\ the\ child\ class\ CreditCard\ and\ using\ instance\ variable\r\n\ Here\ private\ access\ modifier\ has\ been\ use\ for\ variables\ to\ encapsulate\ the\ data\ and\ the\ concepts\ of\ encapulsation\ is\ used\ \r\nand\ \ values\ are\ only\ use\ by\ this\ class\ whereas\ we\ can\ see\ that\ concept\ of\ inheritance\ is\ also\ use\ as\ it\ \ has\ a\ keyword\ extends
+comment1.params=cardId\ clientName\ issuerBank\ bankAccount\ balanceAmount\ cvcNumber\ interestRate\ expirationDate
+comment1.target=CreditCard(int,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ int,\ double,\ java.lang.String)
+comment2.params=
+comment2.target=int\ getCvcNumber()
+comment3.params=
+comment3.target=double\ getCreditLimit()
+comment4.params=
+comment4.target=double\ getInterestRate()
+comment5.params=
+comment5.target=int\ getGracePeriod()
+comment6.params=
+comment6.target=boolean\ getIsGranted()
+comment7.params=CreditLimit\ GracePeriod
+comment7.target=void\ setCreditLimit(double,\ int)
+comment8.params=
+comment8.target=void\ cancelCreditCard()
+comment9.params=
+comment9.target=void\ display()
+numComments=10
